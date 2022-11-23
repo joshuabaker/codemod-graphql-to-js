@@ -1,6 +1,6 @@
 # .graphql to .js
 
-Codemod to convert `.graphql` files to `.js` formatted with `graphql-tag`.
+Converts `.graphql` files to `.js` formatted with `graphql-tag`.
 
 Automatically handles fragments imported using `#import`.
 
